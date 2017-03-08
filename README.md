@@ -1,0 +1,2 @@
+# text-clustering-
+Text clustering on the fetch_20newsgroups dataset using the naive bayes classifier
